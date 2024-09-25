@@ -8,7 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <img alt="Vue logo" class="logo" src="@/assets/platform.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="智能盆栽平台" />
+      <HelloWorld msg="智能盆栽平" />
 
       <nav>
         <RouterLink to="/">详细信息</RouterLink>
