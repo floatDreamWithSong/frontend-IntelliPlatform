@@ -35,4 +35,4 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
         source: "dist/*"
-        target: "/var/www/html" # 你的服务器上的目标目录
+        target: "/usr/local/nginx/html" # 你的服务器上的目标目录
